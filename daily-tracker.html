@@ -1278,7 +1278,7 @@ function buildDetailGrid(day) {
     day.sex && {k:'Sex', v: 'Yes'},
     day.mindfulness && {k:'Mindfulness', v: 'Yes'+(day.mindfulnessMins?' · '+day.mindfulnessMins+'min':'')},
     day.mood && {k:'Mood', v: ratingLabel(day.mood, mLabels)},
-    day.dayRating && {k:'Day Rating', v: '★ '+day.dayRating+' / 5'},
+    day.dayRating && {k:'Day Rating', v: '★ '+day.dayRating+' / 4'},
   ].filter(Boolean);
 
   // exercise
