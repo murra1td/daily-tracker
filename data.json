@@ -4,7 +4,7 @@
       "date": "2026-03-07",
       "weekday": "Saturday",
       "sleep": null,
-      "energy": null,
+      "energy": 1,
       "workTime": null,
       "workStart": null,
       "workEnd": null,
