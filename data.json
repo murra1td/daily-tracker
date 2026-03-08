@@ -29,12 +29,42 @@
       "dayRating": 3,
       "journal": "Claude is impressive, set up this tracker. Hope to make tracking improvement and habit frictionless",
       "cf_f1772943578677": "0"
+    },
+    "2026-03-06": {
+      "date": "2026-03-06",
+      "weekday": "Friday",
+      "sleep": null,
+      "energy": null,
+      "workTime": null,
+      "workStart": null,
+      "workEnd": null,
+      "workBreak": null,
+      "workProductivity": null,
+      "exercise": [],
+      "restaurant": false,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "fibre": null,
+      "leisureTime": null,
+      "leisureNotes": null,
+      "hobbyTime": null,
+      "hobbyNotes": null,
+      "qualityTime": false,
+      "sex": false,
+      "mindfulness": false,
+      "mindfulnessMins": null,
+      "mood": null,
+      "dayRating": null,
+      "journal": null,
+      "cf_f1772946220536": "5"
     }
   },
   "customFields": [
     {
-      "id": "f1772943578677",
-      "name": "Spanish",
+      "id": "f1772946220536",
+      "name": "Test",
       "type": "number",
       "unit": "Min"
     }
