@@ -1,0 +1,34 @@
+{
+  "days": {
+    "2026-03-07": {
+      "date": "2026-03-07",
+      "weekday": "Saturday",
+      "sleep": 6.5,
+      "energy": 2,
+      "workTime": null,
+      "workStart": null,
+      "workEnd": null,
+      "workBreak": null,
+      "workProductivity": null,
+      "exercise": [],
+      "restaurant": false,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "fibre": null,
+      "leisureTime": 60,
+      "leisureNotes": "Wow",
+      "hobbyTime": 120,
+      "hobbyNotes": "AI / App Dev",
+      "qualityTime": false,
+      "sex": false,
+      "mindfulness": false,
+      "mindfulnessMins": null,
+      "mood": 2,
+      "dayRating": 3,
+      "journal": null
+    }
+  },
+  "customFields": []
+}
