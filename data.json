@@ -27,8 +27,16 @@
       "mindfulnessMins": null,
       "mood": 3,
       "dayRating": 3,
-      "journal": "Claude is impressive, set up this tracker. Hope to make tracking improvement and habit frictionless"
+      "journal": "Claude is impressive, set up this tracker. Hope to make tracking improvement and habit frictionless",
+      "cf_f1772943578677": "30"
     }
   },
-  "customFields": []
+  "customFields": [
+    {
+      "id": "f1772943578677",
+      "name": "Spanish",
+      "type": "number",
+      "unit": "Min"
+    }
+  ]
 }
