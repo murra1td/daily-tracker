@@ -59,14 +59,36 @@
       "dayRating": null,
       "journal": null,
       "cf_f1772946220536": "5"
+    },
+    "2026-03-08": {
+      "date": "2026-03-08",
+      "weekday": "Sunday",
+      "sleep": null,
+      "energy": null,
+      "workTime": null,
+      "workStart": null,
+      "workEnd": null,
+      "workBreak": null,
+      "workProductivity": null,
+      "exercise": [],
+      "restaurant": false,
+      "calories": null,
+      "protein": null,
+      "carbs": null,
+      "fat": null,
+      "fibre": null,
+      "leisureTime": 360,
+      "leisureNotes": "Wow, mad men",
+      "hobbyTime": null,
+      "hobbyNotes": null,
+      "qualityTime": true,
+      "sex": false,
+      "mindfulness": false,
+      "mindfulnessMins": null,
+      "mood": 3,
+      "dayRating": 3,
+      "journal": "Planning the week on Sunday morning is a good fit. Good start to the day with meal\nPlanning, workout planning, weeding yard, laundry. Went to try new brewery in Tempe, was ok. Picked up groceries. Relaxed and played wow/watched mad men.\nSara is starting to do better and that makes me very happy.\nHad lots of energy given the low sleep. \nThis tracker is great and I feel like this could work.\nWow is current satisfying but there is an emptiness. Need to find something new or be more intentional with my time."
     }
   },
-  "customFields": [
-    {
-      "id": "f1772946220536",
-      "name": "Test",
-      "type": "number",
-      "unit": "Min"
-    }
-  ]
+  "customFields": []
 }
